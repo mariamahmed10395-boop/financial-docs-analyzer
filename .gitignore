@@ -7,4 +7,4 @@ __pycache__/
 *.pyc
 
 # Data files (We don't upload large PDFs to GitHub)
-data/*.pdf
+Data/*.pdf
